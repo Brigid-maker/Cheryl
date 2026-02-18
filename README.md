@@ -1,15 +1,30 @@
-# Hi, I'm Cheryl.
+👋 Hi, I'm Cheryl
 
 ## About Me
-- I'm currently learning Computer programming at We Can Academy.
-- I'm interested in Web development and program designing.
-- I'm looking to collaborate on beginner-friendly open source projects.
+🎓 Currently learning Computer Programming at **We Can Academy**  
+💻 Passionate about **Web Development** and **Program Design**  
+🤝 Actively seeking beginner-friendly open source projects to contribute to  
+🌱 Always eager to learn and grow in the tech community
 
-## Skills I'm Building
-- Git and GitHub 
+## 🛠️ Skills I'm Building
+- **Version Control:** Git & GitHub
+- **Web Development:** HTML
+## 📚 Current Projects
+Trying to build my portfolio one project at a time! 
 
-## Current Projects
-No current project done yet.
+## 📊 My GitHub Stats
+![Cheryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brigid-maker&show_icons=true&theme=radical)
 
-## How to Reach Me
-- Email: adhiambocheryl2018@gmail.com 
+## 💡 What I'm Looking For
+- Open source projects welcoming to beginners
+- Collaboration opportunities in web development
+- Mentorship and learning from experienced developers
+- Contributing to projects that make a difference
+
+## 📫 How to Reach Me
+- 📧 **Email:** [adhiambocheryl2018@gmail.com](mailto:adhiambocheryl2018@gmail.com)
+
+## ⭐ Fun Facts
+My hobbies are reading and dancing
+
+---
