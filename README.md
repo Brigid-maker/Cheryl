@@ -13,7 +13,7 @@
 Trying to build my portfolio one project at a time! 
 
 ## 📊 My GitHub Stats
-![Cheryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brigid-maker&show_icons=true&theme=radical)
+username=Brigid-maker
 
 ## 💡 What I'm Looking For
 - Open source projects welcoming to beginners
