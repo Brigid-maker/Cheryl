@@ -11,3 +11,20 @@ My email: [adhiambocheryl2018@gmail.com]
 1. Learning from experienced developers
 2. Contributing to projects that make a difference
 3. Collaborating on opportunities in web development
+<table>
+    <tr>
+        <th>Tool</th>
+        <th>Purpose</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Visual Studio Code</td>
+        <td>Writing and editing HTML, CSS, and code</td>
+        <td><a href="https://code.visualstudio.com/">Visit</a></td>
+    </tr>
+    <tr>
+        <td>GitHub</td>
+        <td>Store projects online and track versions</td>
+        <td><a href="https://github.com/">Visit</a></td>
+    </tr>
+</table>
