@@ -28,3 +28,8 @@ My email: [adhiambocheryl2018@gmail.com]
         <td><a href="https://github.com/">https://github.com</td>
     </tr>
 </table>
+#### My task list.
+- Learn the basics of HTML structure.
+- Creating a simple form with input fields and submit button.
+- Practice styling a webpage using CSS.
+-Building a personal portfolio page with sections.
