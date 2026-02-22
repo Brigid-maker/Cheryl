@@ -20,11 +20,11 @@ My email: [adhiambocheryl2018@gmail.com]
     <tr>
         <td>Visual Studio Code</td>
         <td>Writing and editing HTML, CSS, and code</td>
-        <td><a href="https://code.visualstudio.com/">Visit</a></td>
+        <td><a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></td>
     </tr>
     <tr>
         <td>GitHub</td>
         <td>Store projects online and track versions</td>
-        <td><a href="https://github.com/">Visit</a></td>
+        <td><a href="https://github.com/">https://github.com</td>
     </tr>
 </table>
