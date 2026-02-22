@@ -30,8 +30,8 @@ My email: [adhiambocheryl2018@gmail.com]
 </table>
 
 #### My task list
-- Learn the basics of HTML structure.
-- Creating a simple form with input fields and submit button.
+- Learn the basics of HTML structure.✅
+- Creating a simple form with input fields and submit button.✅
 - Practice styling a webpage using CSS.
 -Building a personal portfolio page with sections.
 #### My code block
@@ -39,7 +39,7 @@ My email: [adhiambocheryl2018@gmail.com]
 print("Hello, world!")
 ```
 #### My block quote
-
+> The best way to learn programming is not by reading about it, but by building small projects and fixing your mistakes along the way.
 
 
 
