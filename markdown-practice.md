@@ -30,10 +30,10 @@ My email: [adhiambocheryl2018@gmail.com]
 </table>
 
 #### My task list
--[×] Learn the basics of HTML structure.
--[×]Creating a simple form with input fields and submit button.
--[] Practice styling a webpage using CSS.
--[]Building a personal portfolio page with sections.
+- [×] Learn the basics of HTML structure.
+- [×] Creating a simple form with input fields and submit button.
+- [ ] Practice styling a webpage using CSS.
+- [ ]Building a personal portfolio page with sections.
 #### My code block
 ```python
 print("Hello, world!")
