@@ -1,7 +1,9 @@
 ## My Learning Goals
 ### This Semester
-I'm passionate about **Web development** and **Program design** and I am actively seeking *beginner-friendly open source projects* to contribute to
+I'm passionate about **Web development** and **Program design** and I am actively seeking *beginner-friendly open source projects* to `contribute to`.
+
 Please check my GitHub profile:[https://github.com/Brigid-maker]
+
 My email: [adhiambocheryl2018@gmail.com]
 #### What I want to learn
 - Web development
